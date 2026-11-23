@@ -1,7 +1,7 @@
 [project]
 name = "advanced-api-patterns"
 version = "0.1.0"
-description = "Add your description here"
+description = "A FastAPI project demonstrating scoped API key authentication, idempotent requests, Redis cache-aside, HTTP ETags, and optimistic concurrency control."
 readme = "README.md"
 authors = [
     { name = "YashKhadse01", email = "yashmkhadse@gmail.com" }

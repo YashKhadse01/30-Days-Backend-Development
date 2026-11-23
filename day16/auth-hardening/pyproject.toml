@@ -1,7 +1,7 @@
 [project]
 name = "auth-hardening"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Redis-backed FastAPI authentication hardening project implementing sliding-window rate limiting, brute-force account lockout, single-use password reset tokens, and security audit logging."
 readme = "README.md"
 authors = [
     { name = "YashKhadse01", email = "yashmkhadse@gmail.com" }

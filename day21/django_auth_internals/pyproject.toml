@@ -1,6 +1,8 @@
 [project]
 name = "django-auth-internals"
 version = "0.1.0"
+description = "A Django authentication internals project featuring a custom user model, email-or-username authentication backend, scrypt password hashing, request-timing middleware, and automated tests."
+readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "django>=5.2,<6",

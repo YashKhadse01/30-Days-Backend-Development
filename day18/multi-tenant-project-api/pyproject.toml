@@ -1,7 +1,7 @@
 [project]
 name = "multi-tenant-project-api"
 version = "0.1.0"
-description = "Add your description here"
+description = "A multi-tenant project management REST API built with FastAPI, PostgreSQL, JWT authentication, organization-level RBAC, secure invitations, task management, and WebSocket notifications."
 readme = "README.md"
 authors = [
     { name = "YashKhadse01", email = "yashmkhadse@gmail.com" }

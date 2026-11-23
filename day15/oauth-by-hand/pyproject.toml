@@ -1,7 +1,7 @@
 [project]
 name = "oauth-by-hand"
 version = "0.1.0"
-description = "Add your description here"
+description = "A FastAPI implementation of Google OAuth 2.0 Authorization Code Flow with PKCE, state and nonce validation, Google identity verification, account linking, and secure session management."
 readme = "README.md"
 authors = [
     { name = "YashKhadse01", email = "yashmkhadse@gmail.com" }

@@ -1,7 +1,7 @@
 [project]
 name = "django-orm-lab"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Django ORM laboratory exploring relational modeling, advanced queries, custom managers, N+1 query optimization, database transactions, signals, and SQL performance testing."
 readme = "README.md"
 authors = [
     { name = "YashKhadse01", email = "yashmkhadse@gmail.com" }

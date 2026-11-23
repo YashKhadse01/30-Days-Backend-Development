@@ -1,7 +1,7 @@
 [project]
 name = "jwt-from-scratch"
 version = "0.1.0"
-description = "Add your description here"
+description ="A Python implementation of JSON Web Token (JWT) authentication concepts, including HS256, RS256, claims validation, refresh tokens, and token revocation."
 readme = "README.md"
 authors = [
     { name = "YashKhadse01", email = "yashmkhadse@gmail.com" }

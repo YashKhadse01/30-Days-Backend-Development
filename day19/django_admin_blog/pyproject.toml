@@ -1,7 +1,7 @@
 [project]
 name = "django-admin-blog"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Django blog application featuring class-based CRUD views, author-level permissions, draft and publication workflows, customized Django Admin, pagination, and automated tests."
 readme = "README.md"
 authors = [
     { name = "YashKhadse01", email = "yashmkhadse@gmail.com" }

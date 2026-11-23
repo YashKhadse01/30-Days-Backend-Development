@@ -1,7 +1,7 @@
 [project]
 name = "devops-api"
 version = "0.1.0"
-description = "Add your description here"
+description = "A containerized FastAPI backend featuring asynchronous PostgreSQL integration, Redis-backed Celery background tasks, Nginx reverse proxy, Docker Compose orchestration, Gunicorn deployment, and automated API testing."
 readme = "README.md"
 authors = [
     { name = "YashKhadse01", email = "yashmkhadse@gmail.com" }

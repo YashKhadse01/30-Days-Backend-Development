@@ -1,7 +1,7 @@
 [project]
 name = "auth-2fa-rbac"
 version = "0.1.0"
-description = "Add your description here"
+description = "A FastAPI authentication project featuring Argon2id password hashing, TOTP-based two-factor authentication, backup codes, session management, and role-based access control."
 readme = "README.md"
 authors = [
     { name = "YashKhadse01", email = "yashmkhadse@gmail.com" }

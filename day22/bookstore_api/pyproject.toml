@@ -1,6 +1,8 @@
 [project]
 name = "bookstore-api"
 version = "0.1.0"
+description = "A versioned Django REST Framework bookstore API with nested reviews, filtering, search, ordering, staff-only book writes, rate limiting, OpenAPI documentation, and automated tests."
+readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "django>=5.2,<6",

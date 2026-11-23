@@ -472,6 +472,6 @@ The project demonstrates practical experience in backend development, cloud depl
 
 **Project:** 30 Days of Backend Development
 **Day:** 30 — Final Deployment & Verification
-**GitHub Repository:** [https://github.com/YashKhadse01/30-days-backend](https://github.com/YashKhadse01/30-days-backend)
+**GitHub Repository:** [https://github.com/YashKhadse01/30-Days-Backend-Development](https://github.com/YashKhadse01/30-Days-Backend-Development)
 **Live API Demo:** [https://capstone-core-api.onrender.com/docs](https://capstone-core-api.onrender.com/docs)
 **Status:** Deployment and scoped verification completed

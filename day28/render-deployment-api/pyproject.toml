@@ -1,7 +1,7 @@
 [project]
 name = "render-deployment-api"
 version = "0.1.0"
-description = "Add your description here"
+description = "A deployment-focused FastAPI backend featuring PostgreSQL integration, SQLAlchemy ORM, Alembic database migrations, environment-based configuration, automated health endpoint testing, and Render deployment scripts."
 readme = "README.md"
 authors = [
     { name = "YashKhadse01", email = "yashmkhadse@gmail.com" }
